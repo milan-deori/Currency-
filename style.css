@@ -20,7 +20,7 @@
   }
   
   form {
-    margin: 2rem 0 2rem 0;
+    margin: 2rem 0 2rem 0.5
   }
   
   form select,
@@ -75,7 +75,7 @@
     margin-left: 4rem;
     margin-right: 2rem;
   }
-  
+ 
   form button {
     height: 2rem;
     background-color: #af4d98;
@@ -83,3 +83,4 @@
     font-size: 1.15rem;
     cursor: pointer;
   }
+
